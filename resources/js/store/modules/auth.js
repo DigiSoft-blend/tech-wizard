@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { reject } from 'lodash';
 
-axios.defaults.baseURL = 'http://localhost:8000/api' //'https://tech-wizard.herokuapp.com/api' //'http://localhost:8000/api'// //     
+axios.defaults.baseURL = 'http://localhost:8000/ap' //'https://tech-wizard.herokuapp.com/api' //'http://localhost:8000/api'// //     
 
 const state = { 
   id: '',
